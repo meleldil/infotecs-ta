@@ -1,4 +1,5 @@
 # Проект REST API для российских городов с использованием базы GeoNames
+*[Ссылка]("http://download.geonames.org/export/dump/RU.zip") на базу*
 
 ***
 
